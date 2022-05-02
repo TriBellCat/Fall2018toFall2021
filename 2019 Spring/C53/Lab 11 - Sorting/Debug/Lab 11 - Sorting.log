@@ -1,0 +1,10 @@
+﻿  Lab 11 - Sorting.cpp
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(16): warning C4018: '<=': signed/unsigned mismatch
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(107): warning C4101: 'temp2': unreferenced local variable
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(107): warning C4101: 'temp1': unreferenced local variable
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(227): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\trinity\documents\computer science projects\semester 2\lab 11 - sorting\lab 11 - sorting.cpp(230): warning C4018: '<': signed/unsigned mismatch
+  Lab 11 - Sorting.vcxproj -> C:\Users\Trinity\Documents\Computer Science Projects\Semester 2\Debug\Lab 11 - Sorting.exe

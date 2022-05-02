@@ -1,0 +1,4 @@
+﻿  Lab 6 - Containers (Part 2).cpp
+c:\users\trinity\documents\computer science projects\semester 2\lab 6 - containers (part 2)\lab 6 - containers (part 2).cpp(416): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\computer science projects\semester 2\lab 6 - containers (part 2)\lab 6 - containers (part 2).cpp(424): warning C4018: '<': signed/unsigned mismatch
+  Lab 6 - Containers (Part 2).vcxproj -> C:\Users\Trinity\Documents\Computer Science Projects\Semester 2\Debug\Lab 6 - Containers (Part 2).exe

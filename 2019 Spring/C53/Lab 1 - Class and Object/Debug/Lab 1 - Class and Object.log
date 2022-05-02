@@ -1,0 +1,4 @@
+﻿  Lab 1 - Class and Object.cpp
+c:\users\trinity\documents\computer science projects\semester 2\lab 1 - class and object\lab 1 - class and object.cpp(137): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\trinity\documents\computer science projects\semester 2\lab 1 - class and object\lab 1 - class and object.cpp(156): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab 1 - Class and Object.vcxproj -> C:\Users\Trinity\Documents\Computer Science Projects\Semester 2\Debug\Lab 1 - Class and Object.exe

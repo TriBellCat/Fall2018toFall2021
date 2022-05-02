@@ -1,0 +1,5 @@
+• You don't lose anything; you can delete code and recove it later by checking an old commit.
+• You can see the history of changes and track your work.
+• It keeps your code in one place, so your files wouldn't be cluttered.
+• It makes it easier to maintain multiple versions of your code.
+• It's a way to share and work on your code with others.

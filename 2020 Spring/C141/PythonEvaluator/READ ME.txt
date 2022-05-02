@@ -1,0 +1,14 @@
+# Phase 1.2: Scanner for Limp
+# Trinity Caitlin Atayan Belen
+# Comp 141: Programming Langauages
+
+Notes:
+-The compilier used is Pycharm and interpreter is Python 3.8.
+
+Instructions:
+1. Extract all the contents of the zip file to a folder.
+2. Make sure that all of the contents of the zip file are in the same folder
+3. Open the Terminal
+4. Go to the path of directory of the .py and .txt files (make sure that they're in the same directory) by typing out cd path/to/directory
+5. Type py -3 scanner.py test_input.txt test_output.txt into the Terminal
+   (note: You can change the names of the text files if you want as long as your input ends with ".txt")
