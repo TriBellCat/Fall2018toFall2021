@@ -1,0 +1,3 @@
+﻿  Project 5.cpp
+c:\users\trinity\documents\visual studio 2017\projects\project five - car wash\project 5.cpp(246): warning C4715: 'CarWash::getEndOfWash': not all control paths return a value
+  Project Five - Car Wash.vcxproj -> C:\Users\Trinity\Documents\Visual Studio 2017\Projects\Debug\Project Five - Car Wash.exe

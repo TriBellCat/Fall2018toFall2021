@@ -1,0 +1,8 @@
+﻿  Project Four.cpp
+c:\users\trinity\documents\visual studio 2017\projects\project four - payroll\project four.cpp(375): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project four - payroll\project four.cpp(413): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project four - payroll\project four.cpp(443): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project four - payroll\project four.cpp(481): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project four - payroll\project four.cpp(109): warning C4715: 'tax': not all control paths return a value
+c:\users\trinity\documents\visual studio 2017\projects\project four - payroll\project four.cpp(90): warning C4715: 'gross': not all control paths return a value
+  Project Four - Payroll.vcxproj -> C:\Users\Trinity\Documents\Visual Studio 2017\Projects\Debug\Project Four - Payroll.exe

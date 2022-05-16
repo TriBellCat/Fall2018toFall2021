@@ -1,0 +1,4 @@
+﻿  Lab 9.cpp
+c:\users\trinity\documents\visual studio 2017\projects\lab 9\lab 9.cpp(87): warning C4101: 'm': unreferenced local variable
+c:\users\trinity\documents\visual studio 2017\projects\lab 9\lab 9.cpp(74): warning C4715: 'Coordinate::quadrant': not all control paths return a value
+  Lab 9.vcxproj -> C:\Users\Trinity\Documents\Visual Studio 2017\Projects\Debug\Lab 9.exe

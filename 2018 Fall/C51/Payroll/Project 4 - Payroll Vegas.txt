@@ -1,0 +1,15 @@
+Salary	104 	Robert	Cadillac 	1100
+Full	113 	Dylan	Standard	40	18.50
+Full	122	Jasco	Basic		43	16.50
+Part	124	Amelia	15	10.50
+Salary	142	Lana	Standard	975
+Salary	143 	Lea	Standard	1050
+Full	151 	Hannah	Cadllac	49	19.50
+Full	154	Lucas	Basic		37	14.50
+Part	159	Amanda	29	12.50
+Salary	165	Daniel	Standard	925
+Part	166 	Bill	25	10.90
+Fulltime	174 	Ava	Standard	35	16.50
+Salary	197	Emily	Basic	850
+Part	198	Emma	16	11.50
+Full	199	Neil	Cadillac	44	20.50

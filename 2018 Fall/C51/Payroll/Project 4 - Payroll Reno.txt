@@ -1,0 +1,15 @@
+Salary	101 	Joe	Cadillac 	1000
+Full	110 	Mary	Standard	40	19.50
+Full	121	Jose	Basic		38	15.50
+Part	125	Sally	25	10.50
+Salary	140	Alice	Standard	1250
+Sal	141 	Ian	Standard	1100
+Full	150 	Aya	Standard	44	14.50
+Full	155	Sarah	Base		32	15.50
+Part	160	Juan	20	11.50
+Salary	161	Liam	Standard	800
+Part	162 	Mason	29	9.90
+Full	170 	Sophia	Standard	39	16.50
+Full	175	Emily	Basic		48	16.50
+Part	181	Olivia	12	10.50
+Salary	191	Deven	Standard	900

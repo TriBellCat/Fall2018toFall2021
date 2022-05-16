@@ -1,0 +1,11 @@
+﻿  Project One.cpp
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(179): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(194): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(197): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(212): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(224): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\trinity\documents\visual studio 2017\projects\project one\project one.cpp(236): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project One.vcxproj -> C:\Users\Trinity\Documents\Visual Studio 2017\Projects\Project One\Debug\Project One.exe
